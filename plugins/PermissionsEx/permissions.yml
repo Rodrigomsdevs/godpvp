@@ -1,0 +1,13 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+schema-version: 1
+users:
+  8ae1a182-ba13-42d4-95c6-6707dcb5d8dc:
+    permissions:
+    - '*'
+    options:
+      name: KartageShelby

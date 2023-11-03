@@ -1,134 +1,182 @@
-[19:56:34] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[19:56:34] [Server thread/INFO]: Loading properties
-[19:56:34] [Server thread/INFO]: Default game type: SURVIVAL
-[19:56:34] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[19:56:34] [Server thread/INFO]: Debug logging is disabled
-[19:56:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:56:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:08:17] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:08:17] [Server thread/INFO]: Loading properties
+[20:08:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:08:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:08:17] [Server thread/INFO]: Debug logging is disabled
+[20:08:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:08:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[19:56:34] [Server thread/INFO]: Generating keypair
-[19:56:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:56:34] [Server thread/INFO]: Using default channel type
-[19:56:34] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[19:56:34] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[19:56:34] [Server thread/INFO]: Preparing level "world"
-[19:56:34] [Server thread/INFO]: -------- World Settings For [world] --------
-[19:56:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:56:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[19:56:34] [Server thread/INFO]: Clear tick list: false
-[19:56:34] [Server thread/INFO]: View Distance: 10
-[19:56:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:56:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:56:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:56:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:56:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:56:34] [Server thread/INFO]: Sending up to 10 chunks per packet
-[19:56:34] [Server thread/INFO]: Max Entity Collisions: 8
-[19:56:34] [Server thread/INFO]: Max TNT Explosions: 100
-[19:56:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[19:56:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:56:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:56:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Mob Spawn Range: 4
-[19:56:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[19:56:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:56:34] [Server thread/INFO]: Random Lighting Updates: false
-[19:56:34] [Server thread/INFO]: Structure Info Saving: true
-[19:56:34] [Server thread/INFO]: Anti X-Ray: true
-[19:56:34] [Server thread/INFO]: 	Engine Mode: 1
-[19:56:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[19:56:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[19:56:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[19:56:34] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[19:56:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:56:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[19:56:34] [Server thread/INFO]: Clear tick list: false
-[19:56:34] [Server thread/INFO]: View Distance: 10
-[19:56:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:56:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:56:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:56:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:56:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:56:34] [Server thread/INFO]: Sending up to 10 chunks per packet
-[19:56:34] [Server thread/INFO]: Max Entity Collisions: 8
-[19:56:34] [Server thread/INFO]: Max TNT Explosions: 100
-[19:56:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[19:56:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:56:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:56:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Mob Spawn Range: 4
-[19:56:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[19:56:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:56:34] [Server thread/INFO]: Random Lighting Updates: false
-[19:56:34] [Server thread/INFO]: Structure Info Saving: true
-[19:56:34] [Server thread/INFO]: Anti X-Ray: true
-[19:56:34] [Server thread/INFO]: 	Engine Mode: 1
-[19:56:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[19:56:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[19:56:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[19:56:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[19:56:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:56:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[19:56:34] [Server thread/INFO]: Clear tick list: false
-[19:56:34] [Server thread/INFO]: View Distance: 10
-[19:56:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:56:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:56:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:56:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:56:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:56:34] [Server thread/INFO]: Sending up to 10 chunks per packet
-[19:56:34] [Server thread/INFO]: Max Entity Collisions: 8
-[19:56:34] [Server thread/INFO]: Max TNT Explosions: 100
-[19:56:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[19:56:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:56:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:56:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:56:34] [Server thread/INFO]: Mob Spawn Range: 4
-[19:56:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[19:56:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:56:34] [Server thread/INFO]: Random Lighting Updates: false
-[19:56:34] [Server thread/INFO]: Structure Info Saving: true
-[19:56:34] [Server thread/INFO]: Anti X-Ray: true
-[19:56:34] [Server thread/INFO]: 	Engine Mode: 1
-[19:56:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[19:56:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[19:56:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[19:56:34] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4659718370948308169)
-[19:56:34] [Server thread/INFO]: Preparing start region for level 1 (Seed: 416074662068218201)
-[19:56:35] [Server thread/INFO]: Preparing start region for level 2 (Seed: 416074662068218201)
-[19:56:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:56:35] [Server thread/INFO]: Done (0,833s)! For help, type "help" or "?"
-[19:56:37] [User Authenticator #1/INFO]: UUID of player KartageShelby is 8ae1a182-ba13-42d4-95c6-6707dcb5d8dc
-[19:56:37] [Server thread/INFO]: KartageShelby[/127.0.0.1:64340] logged in with entity id 21 at ([world]44.5, 4.0, 385.5)
-[19:56:40] [Server thread/INFO]: KartageShelby issued server command: /gamemode 1
-[19:56:40] [Server thread/INFO]: [KartageShelby: Set own game mode to Creative Mode]
-[19:57:02] [Server thread/INFO]: Stopping the server
-[19:57:02] [Server thread/INFO]: Stopping server
-[19:57:02] [Server thread/INFO]: Saving players
-[19:57:02] [Server thread/INFO]: KartageShelby lost connection: Server closed
-[19:57:02] [Server thread/INFO]: KartageShelby left the game.
-[19:57:02] [Server thread/INFO]: Saving worlds
-[19:57:02] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:57:02] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[19:57:02] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[20:08:17] [Server thread/INFO]: Generating keypair
+[20:08:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:08:17] [Server thread/INFO]: Using default channel type
+[20:08:17] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[20:08:17] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:08:17] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[20:08:17] [Server thread/INFO]: [KitPvNelson] Loading KitPvNelson v1.0
+[20:08:17] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:08:17] [Server thread/INFO]: Preparing level "world"
+[20:08:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:08:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:08:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:08:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:08:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:08:17] [Server thread/INFO]: Anti X-Ray: true
+[20:08:17] [Server thread/INFO]: 	Engine Mode: 1
+[20:08:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:08:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:08:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:08:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:08:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:08:17] [Server thread/INFO]: Clear tick list: false
+[20:08:17] [Server thread/INFO]: View Distance: 10
+[20:08:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:08:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:08:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:08:17] [Server thread/INFO]: Mob Spawn Range: 4
+[20:08:17] [Server thread/INFO]: Structure Info Saving: true
+[20:08:17] [Server thread/INFO]: Random Lighting Updates: false
+[20:08:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:08:17] [Server thread/INFO]: Max Entity Collisions: 8
+[20:08:17] [Server thread/INFO]: Max TNT Explosions: 100
+[20:08:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:08:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:08:17] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:08:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:08:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:08:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:08:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:08:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:08:17] [Server thread/INFO]: Anti X-Ray: true
+[20:08:17] [Server thread/INFO]: 	Engine Mode: 1
+[20:08:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:08:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:08:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:08:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:08:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:08:17] [Server thread/INFO]: Clear tick list: false
+[20:08:17] [Server thread/INFO]: View Distance: 10
+[20:08:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:08:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:08:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:08:17] [Server thread/INFO]: Mob Spawn Range: 4
+[20:08:17] [Server thread/INFO]: Structure Info Saving: true
+[20:08:17] [Server thread/INFO]: Random Lighting Updates: false
+[20:08:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:08:17] [Server thread/INFO]: Max Entity Collisions: 8
+[20:08:17] [Server thread/INFO]: Max TNT Explosions: 100
+[20:08:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:08:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:08:17] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:08:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:08:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:08:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:08:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:08:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:08:17] [Server thread/INFO]: Anti X-Ray: true
+[20:08:17] [Server thread/INFO]: 	Engine Mode: 1
+[20:08:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:08:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:08:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:08:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:08:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:08:17] [Server thread/INFO]: Clear tick list: false
+[20:08:17] [Server thread/INFO]: View Distance: 10
+[20:08:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:08:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:08:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:08:17] [Server thread/INFO]: Mob Spawn Range: 4
+[20:08:17] [Server thread/INFO]: Structure Info Saving: true
+[20:08:17] [Server thread/INFO]: Random Lighting Updates: false
+[20:08:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:08:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:08:17] [Server thread/INFO]: Max Entity Collisions: 8
+[20:08:17] [Server thread/INFO]: Max TNT Explosions: 100
+[20:08:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:08:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:08:17] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:08:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1762032592892080943)
+[20:08:18] [Server thread/INFO]: Preparing start region for level 1 (Seed: 416074662068218201)
+[20:08:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: 416074662068218201)
+[20:08:18] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[20:08:18] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[20:08:18] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[20:08:18] [Server thread/INFO]: [KitPvNelson] Enabling KitPvNelson v1.0
+[20:08:18] [Thread-5/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[20:08:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:08:19] [Server thread/INFO]: Done (2,039s)! For help, type "help" or "?"
+[20:08:19] [Server thread/INFO]: [0;31;1m[21mTOP[0;37;1m, foi atualizado o TOP10 jogadores![m
+
+[20:08:20] [Server thread/INFO]: [0;31;1m[21mTOP[0;37;1m, foi atualizado o TOP10 Clans![m
+
+[20:08:20] [Server thread/INFO]: [0;37;22m[[0;31;1m[21mAVISO[0;37;22m] [0;33;1mGosta de Series ? se sim entre já no [0;31;1mhttp://maxmovies.com.br[m
+
+[20:08:21] [User Authenticator #1/INFO]: UUID of player KartageShelby is 8ae1a182-ba13-42d4-95c6-6707dcb5d8dc
+[20:08:21] [Server thread/INFO]: KartageShelby[/127.0.0.1:65228] logged in with entity id 23 at ([world]500.0, 60.0, 500.0)
+[20:08:27] [Server thread/INFO]: KartageShelby issued server command: /setworldspawn
+[20:08:27] [Server thread/INFO]: [KartageShelby: Set the world spawn point to (500, 60, 500)]
+[20:08:31] [Server thread/INFO]: KartageShelby issued server command: /tp 0 100 0
+[20:08:37] [Server thread/INFO]: KartageShelby issued server command: /settp
+[20:08:39] [Server thread/INFO]: KartageShelby issued server command: /settp
+[20:08:43] [Server thread/INFO]: KartageShelby issued server command: /settp
+[20:08:47] [Server thread/INFO]: KartageShelby issued server command: /settp
+[20:08:52] [Server thread/INFO]: KartageShelby issued server command: /settp
+[20:08:55] [Server thread/INFO]: KartageShelby issued server command: /settp
+[20:09:13] [Server thread/INFO]: KartageShelby issued server command: /tp -999.5 110 -991.5
+[20:09:19] [Server thread/INFO]: KartageShelby issued server command: /tp -999.5 100 -991.5
+[20:09:20] [Server thread/INFO]: [0;37;22m[[0;31;1m[21mAVISO[0;37;22m] [0;33;1mGosta de Series ? se sim entre já no [0;31;1mhttp://maxmovies.com.br[m
+
+[20:09:27] [Server thread/INFO]: KartageShelby issued server command: /setwarp
+[20:09:30] [Server thread/INFO]: KartageShelby issued server command: /setwarp lava
+[20:09:34] [Server thread/INFO]: KartageShelby issued server command: /tp -499.5 100 -495.5
+[20:09:44] [Server thread/INFO]: KartageShelby issued server command: /setwarp fps
+[20:09:50] [Server thread/INFO]: KartageShelby issued server command: /tp 212.5 122 344.5
+[20:09:57] [Server thread/INFO]: KartageShelby issued server command: /tp 212.5 122 344.5
+[20:10:05] [Server thread/INFO]: KartageShelby issued server command: /setwarp
+[20:10:11] [Server thread/INFO]: KartageShelby issued server command: /tp 500.5 60 500.5
+[20:10:15] [Server thread/INFO]: KartageShelby issued server command: /tp 1008.5 100 1000.5
+[20:10:20] [Server thread/INFO]: [0;37;22m[[0;31;1m[21mAVISO[0;37;22m] [0;33;1mGosta de Series ? se sim entre já no [0;31;1mhttp://maxmovies.com.br[m
+
+[20:10:30] [Server thread/INFO]: KartageShelby issued server command: /setwarp
+[20:10:32] [Server thread/INFO]: KartageShelby issued server command: /setwarp rdmspawn
+[20:10:44] [Server thread/INFO]: KartageShelby issued server command: /setwarp rdmpos1
+[20:10:51] [Server thread/INFO]: KartageShelby issued server command: /setwarp rdmpos1
+[20:10:55] [Server thread/INFO]: KartageShelby issued server command: /setwarp RDMPOS2
+[20:10:56] [Server thread/INFO]: KartageShelby issued server command: /setwarp RDMPOS1
+[20:11:02] [Server thread/INFO]: KartageShelby issued server command: /setwarp RDMPOS
+[20:11:04] [Server thread/INFO]: KartageShelby issued server command: /setwarp RDMPO1
+[20:11:05] [Server thread/INFO]: KartageShelby issued server command: /setwarp RDMPOS1
+[20:11:13] [Server thread/INFO]: KartageShelby issued server command: /spawn
+[20:11:17] [Server thread/INFO]: Stopping the server
+[20:11:17] [Server thread/INFO]: Stopping server
+[20:11:17] [Server thread/INFO]: [KitPvNelson] Disabling KitPvNelson v1.0
+[20:11:17] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[20:11:17] [Server thread/INFO]: Saving players
+[20:11:17] [Server thread/INFO]: KartageShelby lost connection: Server closed
+[20:11:17] [Server thread/INFO]: KartageShelby left the game.
+[20:11:17] [Server thread/INFO]: Saving worlds
+[20:11:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:11:17] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[20:11:17] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
